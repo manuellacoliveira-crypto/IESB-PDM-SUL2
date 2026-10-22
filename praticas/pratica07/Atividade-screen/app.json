@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Atividade-screen",
+    "slug": "atividade-screen",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true
+  }
+}
